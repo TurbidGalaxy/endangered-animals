@@ -1,0 +1,13 @@
+ol {
+    border: 2px solid blue; /* 2px solid border, blue color */
+    padding: 15px;         /* Add some padding inside the border */
+    margin: 20px;          /* Add some space around the border */
+  }
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+  display: inline;
+}
