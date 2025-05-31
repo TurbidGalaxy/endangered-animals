@@ -11,3 +11,11 @@ ul {
 li {
   display: inline;
 }
+.dugong{
+    width: 50%;
+    height: 50%;
+}
+body {
+    padding: 0.1vw;
+}
+
