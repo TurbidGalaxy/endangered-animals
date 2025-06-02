@@ -129,7 +129,7 @@ function scrollToSectionWithOffset(sectionId) {
 
 function populateDropdown(animals) {
     const dropdown = document.getElementById('animal-dropdown');
-    dropdown.innerHTML = `<option value="">Jump to animal...</option>`;
+    dropdown.innerHTML = `<option value="">Jump to...</option>`;
     animals.forEach((animal) => {
         const opt = document.createElement("option");
         opt.value = animal.id;
